@@ -1,0 +1,292 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Philip Färber Netflix Special",
+      "length": "1h55min",
+      "year": 2021,
+      "imageUrl": "https://scontent-muc2-1.xx.fbcdn.net/v/t39.30808-6/245490165_4599718313423540_4320149364181032594_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tFiDybbusIgAX-A6SX0&_nc_ht=scontent-muc2-1.xx&oh=f521b758b5ae7f484e70b0dfdcd256f1&oe=6192644D",
+      "genre": "Stand-Up Comedy",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "length": "2h49min",
+      "year": 2014,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABUo5sWgjQvS72Ww-cX07ZetQu06xwVErhuOI9TxyOrZ2R8JhpR4u1VomSz7OQkRTabAf5qoZwvQJDRz0-MPBpSWBVlA.webp?r=d82",
+      "genre": "Science-Fiction",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 3,
+      "name": "Ocean's Eleven",
+      "length": "1h56min",
+      "year": 2001,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABR7XilqifixqI_mnGq8qXjoLJokO3JDOmyFH5VVllvRDSmxQDOGZ0_ABCAyFgfkBM-0P5n42_2S3lbiKO7DmUVWXG_M.webp?r=b5c",
+      "genre": "Komödie",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 4,
+      "name": "Hot Fuzz",
+      "length": "1h56min",
+      "year": 2007,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABc927tF_HoCO_0cculdW0EKGROF6mm4nqPgrZgsiPIdvT4LxA66jnj3b5lNRagMaf_OtgnaZkGEa2yuAQx7YTcfdo0Y.webp?r=083",
+      "genre": "Komödie",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 5,
+      "name": "Shutter Island",
+      "length": "2h18min",
+      "year": 2010,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZB-QR5dkgDz5zGmZUw6hG6aTncPDMd-nXkEXk37rTq-UBpQww-mRmXcn1hUn5Lt09vn2WvP_4rAVcstLYkEHeSD5k4.webp?r=c10",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 6,
+      "name": "Djando Unchained",
+      "length": "2h45min",
+      "year": 2012,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABQxfSKw1DUXJ11dU0DZVacO6rMos1n4VWSK7fAOJsBfTRdFaUWqTh_Xzn99ycaVnHs_veM_rlzn-_PWDE3P8JHBhcb8.webp?r=cfc",
+      "genre": "Western",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 7,
+      "name": "Fight Club",
+      "length": "2h19min",
+      "year": 1999,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZWpxKoz9_yVzIBd6_7Uo5U0zcbNqQK5WpwzUM_aRO7WKPRxsxrptGlKW2unR2ZVcbja3Dny5_jQDhL4mFLfaF_id5A.webp?r=748",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 8,
+      "name": "Shining",
+      "length": "1h59min",
+      "year": 1980,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABX2y2PQlTraN46Q-zpLiUfySWamsOW0UsltSqTIvxF_LshYTFjMmHpdAiz1MgCWLT9VlAfQBTZUtjWUVW3gOUFtg2Bw.webp?r=c98",
+      "genre": "Horror",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 9,
+      "name": "The Big Short",
+      "length": "2h10min",
+      "year": 2015,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZO5LBtFz-govJivx0XwmhOnAWkzVQTHZV9E2ESOqf_U-0DoGKIAh8b27S7wSQpQ2Zw5EBgr7e9B1sGOhZYE0W8t0wA.webp?r=55f",
+      "genre": "Komödie",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 10,
+      "name": "Goodfellas",
+      "length": "2h25min",
+      "year": 1990,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABbgdgDyJX3wbXPcukbqNmCQJDyRdmp_ROKb8Bbq73ZiSf2M6nSuvBeLfhJDgtvK6dY8vcArmHvdlOtrI0s3obb3xBlU.webp?r=22f",
+      "genre": "Kriminal",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 11,
+      "name": "Joker",
+      "length": "2h1min",
+      "year": 2019,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABRjbtz8vy4hjh9z1eJNrimPvw6wGnpgiDgCmQDnCvMQ4LMFeCNVowvpA4XnFujX7ATfiAweRd00d_h2mzf0xrZK72qk.webp?r=d46",
+      "genre": "Drama",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 12,
+      "name": "Der Hobbit - Eine unerwartete Reise",
+      "length": "2h49min",
+      "year": 2012,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZl5RpHBorlhjRKYbi2dEaGLC4Lj3CCz6a74PYZTvxSpxtUfNGG4u15XR-_LVECWhLGnObIMGlsKnfCslmc65QnE4-s.webp?r=6f3",
+      "genre": "Fantasy",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 13,
+      "name": "Deadpool",
+      "length": "1h48min",
+      "year": 2016,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZLss16wXPHOpHyxtdfOU61jjX6fAvoAwGsXoInJusPeDHeqCQY2wEQPDGllYyPxouT7hBumD8f_PgAV63NOfZ4JIy0.webp?r=880",
+      "genre": "Komödie",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 14,
+      "name": "John Wick 2",
+      "length": "2h3min",
+      "year": 2017,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABeSRhG5HQqCfln4rcUYta9TF-rOb9T0KBNisNjcvczk2cagtClbeALvOjasX5U7AS05EVjmhlSsXkKlFHgMaIipfUXA.webp?r=760",
+      "genre": "Action",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 15,
+      "name": "Sieben",
+      "length": "2h6min",
+      "year": 1995,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZHm21gvbxourf3c25UhYUu-FmmJSmLE__-vTppFCaJrMpaL6vb2TMh5uJf8oLGNLC34KnL2TtHcBN_KqcMsZx6ftNk.webp?r=6be",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 16,
+      "name": "8 Mile",
+      "length": "1h50min",
+      "year": 2002,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABZ5v0IIjPdpzvovtOLOy_TrI9GzLkUWtVs2a50Aw_yIM5SjyjEc9zyLwbawT7JEYpGmUI5La1rwupU8zAA1UpGXbfvw.webp?r=3ad",
+      "genre": "Drama",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 17,
+      "name": "Inception",
+      "length": "2h28min",
+      "year": 2010,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABWocagWw48XV2JpHspOVlZmJqoMRzcQRxiN9N_xOwq0qJl3TE7xQVcJMyjk2CL9BM8mSEhTezMZKs1Zug4st4FFjTA0.webp?r=bd6",
+      "genre": "Action",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 18,
+      "name": "ES",
+      "length": "2h14min",
+      "year": 2017,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABWrHVHzoBSTGy2gEe8mqtR9MV9HhK7CLZlVm9kO15a5wk5scxA6xs6ljsj9JpC9JnJYB5Gi0vFvo1MT7oRUECj-a1Cw.webp?r=937",
+      "genre": "Horror",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 19,
+      "name": "Der Knastcoach",
+      "length": "1h40min",
+      "year": 2014,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABf5bh8iMZQfSmMhpInYt05wFVeSbeAcjBPFyNvxI9yuBuOda2zJmYiI-oXeHlQNE-fw8wLmSEu43oxCEslSjCCI2W04.webp?r=9cd",
+      "genre": "Komödie",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 20,
+      "name": "Die Verurteilten",
+      "length": "2h22min",
+      "year": 1994,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABXVrJ4h6rccEKY5lo52GaetLT-s_UqcPp1oyGWrLsPD8UdkrojTTy-VMeuhjdVXZ3bumI5OP8ydk5Vk2jjYTkegDrhA.webp?r=157",
+      "genre": "Drama",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 21,
+      "name": "Zodiac",
+      "length": "2h37min",
+      "year": 2007,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABXSOSF25sxs88Cpb4HasN1as7KkI4ZNc2-5posRSMDkNZvYsfyQvs4Cj5h1NMQbfnVs-4-jOhQNz3PyD7C1pjX-Ett4.webp?r=d6b",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 22,
+      "name": "L.A. Confidential",
+      "length": "2h17min",
+      "year": 1997,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABVcZq0clTe3div7AciNSj2KAD4I7tn5HTFprwk8QpxluDICjV1f5REriOvC-vf1dLU7BOkEcTGzPQiflNyEZxXjn0uQ.webp?r=410",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 23,
+      "name": "Illuminati",
+      "length": "2h18min",
+      "year": 2009,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABQeg1emscMYWVXGxUtR3qXyCb4PFKmPihl9j_OcYuQwcT_qkvzvFcppyouPQmSvjwcXhE9lXJ1vrCOEUqc62fDkTCg0.webp?r=955",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 24,
+      "name": "Roter Drache",
+      "length": "2h4min",
+      "year": 2002,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABS1RKCuZA19n6CQYewVBWp48JR_KwklQB5SdoFbpRzc5OEi4SGKFsjVEvC0l9gIBmIGj2xCFJxXGLXmmYzL7VL2EGLg.webp?r=c81",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 25,
+      "name": "The Departed",
+      "length": "2h31min",
+      "year": 2006,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABdcgGPebXVyM9utdF_p5-nUWMTdaPWnaJDw2mrwsn6axeNu6dcPddGAgukigxuv9OUxtansizIRmif9P0ufzDJmVzA8.webp?r=be5",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 26,
+      "name": "Black Swan",
+      "length": "1h48min",
+      "year": 2010,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABa-2H-WwPLnakMdnX_H9Ey3ereCzJv0oKbG2F8nr0Lq7mI9kaUdG80T2GdLoP2AD1cw7Invv32iQiM244DdJQo9lfm4.webp?r=37b",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 27,
+      "name": "Verblendung",
+      "length": "2h38min",
+      "year": 2011,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABbMnkXHkXxrFOP7NopawE2EO5v3I16dTu62wuhgZdVWiOPCeVHmG8HwdEaII45peYggpLBybwsuZAHNjSe1sBTeUNLc.webp?r=494",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 28,
+      "name": "Training Day",
+      "length": "2h2min",
+      "year": 2001,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABUIaHFu8snmSG8u6DMpl9_GCZwnLSXt_WjzueXJW9_i1qhAkYhO1yE-JqZXnpsW8aBeP0hjeuEwLtiuVKsF__jZCwok.webp?r=108",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 29,
+      "name": "Bridge of Spies",
+      "length": "2h21min",
+      "year": 2015,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABVvwzdvRc4Fswdy1-lVyCTU4X0BAWJNZzZHes6yIcABZtyTvfGnvG71Df_qw5MQbjQls7h-y9T43pnlHdB_cY-zG7po.webp?r=3ef",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    },
+    {
+      "id": 30,
+      "name": "El Camino",
+      "length": "2h2min",
+      "year": 2019,
+      "imageUrl": "https://occ-0-2773-2774.1.nflxso.net/dnm/api/v6/7e0PTVDdJ65eumyzagWiJKiw6MU/AAAABaiI2Foph0qrhnYH0S53mkTj9BEkPci3skB6zvaBR6dFyjs1MyeoROnsXKZH5h1ShgULMpX7wy4wjeQcho3QgUBXlTwIVoNvnG4fhmfCXnS8RpIwNW8xfCDRyWa8.jpg?r=00c",
+      "genre": "Thriller",
+      "infoText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+    }
+  ],
+  "watchlist": [
+    {
+      "name": "Herr der Ringe",
+      "id": 31
+    },
+    {
+      "name": "Star Wars Episode V",
+      "id": 32
+    },
+    {
+      "name": "21 Jump Street",
+      "id": 33
+    },
+    {
+      "name": "Wolf of Wall Street",
+      "id": 34
+    }
+  ]
+}
